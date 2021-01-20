@@ -7,5 +7,5 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuyaMatsunaga&exclude_repo=capr1net-blog
-,game_memo,KazuyaMatsunaga,graduation_thesis,toy_app,hello_app,sample_app,learning-area,serverless-handson,Battari-Android,docker-openvswitch,go-slack-interactive&theme=tokyonight" />
+,game_memo,graduation_thesis,toy_app,hello_app,sample_app,learning-area,serverless-handson,Battari-Android,docker-openvswitch,go-slack-interactive&theme=tokyonight" />
 </a>
