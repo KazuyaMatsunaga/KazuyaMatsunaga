@@ -1,4 +1,4 @@
-# GitHub Status
+# E1ne's GitHub Status
 
 ## Trophy
 
